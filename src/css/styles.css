@@ -1,0 +1,18 @@
+/* index.css o globals.css
+.input {
+  @apply rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm outline-none focus:border-slate-400 focus:ring-2 focus:ring-slate-200;
+}
+.btn-primary {
+  @apply rounded-lg px-3 py-2 text-sm font-medium text-white bg-slate-800 hover:bg-slate-900 active:scale-[.99];
+}
+.btn-ghost {
+  @apply rounded-lg px-3 py-2 text-sm text-slate-700 hover:bg-slate-100;
+}
+.btn-danger {
+  @apply rounded-lg px-3 py-2 text-sm font-medium text-white bg-red-600 hover:bg-red-700 active:scale-[.99];
+} */
+
+/* .input { @apply rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm outline-none focus:border-slate-400 focus:ring-2 focus:ring-slate-200; }
+.btn-primary { @apply rounded-lg px-3 py-2 text-sm font-medium text-white bg-slate-800 hover:bg-slate-900 active:scale-[.99]; }
+.btn-ghost { @apply rounded-lg px-3 py-2 text-sm text-slate-700 hover:bg-slate-100; }
+.btn-danger { @apply rounded-lg px-3 py-2 text-sm font-medium text-white bg-red-600 hover:bg-red-700 active:scale-[.99]; } */
